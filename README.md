@@ -4,8 +4,6 @@ Personal Page of Yonhuiyang@HFUT
 </h1>
 
 
-# <p align="center">张琨的个人学术主页</p>
-
 
 # Acknowledges
 
