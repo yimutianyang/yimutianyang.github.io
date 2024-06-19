@@ -17,3 +17,6 @@ redirect_from:
 
 
 {% include_relative includes/3-news.md %}
+
+<span class='anchor' id='-publications'></span>
+{% include_relative includes/5-pub-year.md %}
