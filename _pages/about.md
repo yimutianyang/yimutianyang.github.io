@@ -21,5 +21,5 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 {% include_relative includes/5-pub-year.md %}
 
-<span class='anchor' id='-Talks and Honors'></span>
+<span class='anchor' id='-talks and honors'></span>
 {% include_relative includes/6-others.md %}
