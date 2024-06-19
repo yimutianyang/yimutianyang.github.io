@@ -27,7 +27,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``IEEE TBD 2023`` Haoyue Bai, Min Hou, Le Wu, **Yonghui Yang**, Kun Zhang, Richang Hong, Meng Wang. Unified Representation Learning for Discrete Attribute Enhanced Completely Cold-Start Recommendation.
 [\[Paper\]](https://www.computer.org/csdl/journal/bd/5555/01/10496230/1W28wUPxFOo)
 
-- ``MM 2023`` Haoyue Bai, Min Hou*, Le Wu, Yonghui Yang, Kun Zhang, Richang Hong, Meng Wang. GoRec:
+- ``MM 2023`` Haoyue Bai, Min Hou, Le Wu, Yonghui Yang, Kun Zhang, Richang Hong, Meng Wang. GoRec:
 A Generative Cold-Start Recommendation Framework.
 [\[Paper\]](https://dl.acm.org/doi/10.1145/3581783.3612238) [\[Code\]](https://github.com/HaoyueBai98/GoRec)
 
@@ -38,7 +38,7 @@ A Generative Cold-Start Recommendation Framework.
 
 ### In the year of 2021:
 - ``SIGIR 2021`` **Yonghui Yang**, Le Wu, Richang Hong, Kun Zhang, Meng Wang. Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization. 
-[[\Paper\]](https://dl.acm.org/doi/10.1145/3404835.3462928) [\[Code\]](https://github.com/yimutianyang/SIGIR2021-EGLN)
+[\[Paper\]](https://dl.acm.org/doi/10.1145/3404835.3462928) [\[Code\]](https://github.com/yimutianyang/SIGIR2021-EGLN)
 
 ### In the year of 2021:
 - ``SIGIR 2020`` Le Wu, Yonghui Yang, Kun Zhang, Richang Hong, Yanjie Fu, Meng Wang. Joint Item
