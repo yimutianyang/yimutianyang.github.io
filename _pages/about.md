@@ -18,8 +18,8 @@ redirect_from:
 
 {% include_relative includes/3-news.md %}
 
-<span class='anchor' id='-publications'></span>
+<span class='anchor' id='-pub'></span>
 {% include_relative includes/5-pub-year.md %}
 
-<span class='anchor' id='-talks and honors'></span>
+<span class='anchor' id='-honor'></span>
 {% include_relative includes/6-others.md %}
