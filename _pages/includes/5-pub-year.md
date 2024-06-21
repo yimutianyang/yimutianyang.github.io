@@ -9,7 +9,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 ### In the year of 2024:
 
-- ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Qichang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
+- ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Richang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
 [\[Paper\]](https://arxiv.org/abs/2406.08214) [\[Code\]](https://github.com/yimutianyang/KDD24-GBSR)
 
 - ``KDD 2024`` Zhuangzhuang He, Yifan Wang, **Yonghui Yang**, Peijie Sun, Le Wu, Haoyue Bai, Jinqi Gong, Richang Hong, Min Zhang. Double Correction Framework for Denoising Recommendation.
