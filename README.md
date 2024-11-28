@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Personal Page of Yonhuiyang@HFUT
+Personal Page of Yonghuiyang@HFUT
 </h1>
 
 
