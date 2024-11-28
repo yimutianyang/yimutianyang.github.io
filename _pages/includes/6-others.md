@@ -1,5 +1,5 @@
 # 🥇 Honors and Awards
-
+- *2024.12* **National Scholarship**
 - *2023.05* **SIGIR 2023 Student Travel Grant**
 - *2022.12* **Excellent Master's Thesis in Anhui Province**
 - *2021.08*  **National First Prize** in China Collegiate Computing Contest 2021-Big Data Challenge
