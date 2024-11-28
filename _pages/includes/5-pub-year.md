@@ -8,7 +8,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 ### In the year of 2024:
-- ``IEEE TKDE`` Zihan Wang, **Yonghui Yang***, Le Wu*, Richang Hong, Meng Wang. Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.
+- ``IEEE TKDE`` Zihan Wang, **Yonghui Yang***, **Le Wu***, Richang Hong, Meng Wang. Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.
 
 - ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Richang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
 [\[Paper\]](https://arxiv.org/abs/2406.08214) [\[Code\]](https://github.com/yimutianyang/KDD24-GBSR)
