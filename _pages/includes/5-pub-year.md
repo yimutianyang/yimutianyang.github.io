@@ -13,8 +13,8 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Richang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
 [\[Paper\]](https://arxiv.org/abs/2406.08214) [\[Code\]](https://github.com/yimutianyang/KDD24-GBSR)
 
-- ``IJCAI 2024`` Junsong Xie†, **Yonghui Yang†**, Zihan Wang, Le Wu. Learning Fair Representations for Recommendation via Information Bottleneck Principle. Accepted by IJCAI 2024. 
-[\[Code\]](https://github.com/jsxie9/IJCAI_FairIB)
+- ``IJCAI 2024`` Junsong Xie†, **Yonghui Yang†**, Zihan Wang, Le Wu. Learning Fair Representations for Recommendation via Information Bottleneck Principle. 
+[\[Paper\]](https://www.ijcai.org/proceedings/2024/0273.pdf) [\[Code\]](https://github.com/jsxie9/IJCAI_FairIB)
 
 
 
