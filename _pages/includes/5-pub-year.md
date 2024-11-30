@@ -1,5 +1,5 @@
 # 💻 Selected Research Papers
-† co-first author
+† co-first author, * corresponding author
 
 My full paper list can also be found at [Google Scholar](https://scholar.google.co.jp/citations?user=B8LCMuIAAAAJ&hl).
 
