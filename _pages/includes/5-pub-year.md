@@ -6,6 +6,11 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 ### Representative Papers
 
 
+### Preprint Papers ###
+- **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation.
+[\[Paper\]](https://arxiv.org/abs/2501.12175)
+
+
 
 ### In the year of 2024:
 - ``IEEE TKDE`` Zihan Wang, **Yonghui Yang** *, **Le Wu** *, Richang Hong, Meng Wang. Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.[\[Paper\]](https://ieeexplore.ieee.org/document/10779184) [\[Code\]](https://github.com/wzh-study/MACDR)
