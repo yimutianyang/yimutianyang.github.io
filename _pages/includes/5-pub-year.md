@@ -7,7 +7,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 ### Preprint Papers ###
-- **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation.
+- ``ArXiv 2025`` **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation.
 [\[Paper\]](https://arxiv.org/abs/2501.12175)
 
 
