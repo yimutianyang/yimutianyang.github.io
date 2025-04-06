@@ -12,6 +12,10 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 
+### In the year of 2025:
+- ``SIGIR 2025`` **Yonghui Yang**, Le Wu, Yuxin Liao, Zhuangzhuang He, Pengyang shao, Richang Hong, Meng Wang. Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning.
+- ``SIGIR 2025`` Yuxin Liao, **Yonghui Yang**, Min Hou, Le Wu, Hefei Xu, Hao Liu. Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective.
+
 ### In the year of 2024:
 - ``IEEE TKDE`` Zihan Wang, **Yonghui Yang** *, **Le Wu** *, Richang Hong, Meng Wang. Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.[\[Paper\]](https://ieeexplore.ieee.org/document/10779184) [\[Code\]](https://github.com/wzh-study/MACDR)
 
