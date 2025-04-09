@@ -1,6 +1,8 @@
 # 🔥 News
 
-_2025_1-22_: 🎉🎉 One paper on <u>Denoising-based Multimodal Recommendation</u> is released on ArXiv.
+_2025_04_05_: 🎉🎉 Two papers on <u>Robust Recommendation</u> are accepted by SIGIR'25.
+
+_2025_01-22_: 🎉🎉 One paper on <u>Denoising-based Multimodal Recommendation</u> is released on ArXiv.
 
 _2024_11-26_: 🎉🎉 One paper on <u>Cross-Domain Recommendation</u> is accepted by IEEE TKDE.
 
