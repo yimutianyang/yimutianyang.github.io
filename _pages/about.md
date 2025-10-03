@@ -15,10 +15,9 @@ redirect_from:
 <span class='anchor' id='-contact'></span>
 {% include_relative includes/2-contact.md %}
 
-<span class='anchor' id='-News'></span>
 {% include_relative includes/3-news.md %}
 
-<span class='anchor' id='-Montering'></span>
+<span class='anchor' id='-hight'></span>
 {% include_relative includes/4-high.md %}
 
 <span class='anchor' id='-pub'></span>
@@ -26,4 +25,5 @@ redirect_from:
 
 <span class='anchor' id='-honor'></span>
 {% include_relative includes/6-others.md %}
+
 
