@@ -1,6 +1,6 @@
 # 📝 Mentoring Experience  
 
-I have extensive experience in supervising student research, and I warmly welcome passionate students who are eager to pursue research to get in touch. Below are selected achievements from my mentorship (all **CCF A conferences/journals**, all **Student First-author Works**):  
+I have extensive experience in supervising student research, and I warmly welcome passionate students who are eager to pursue research to get in touch. Below are selected achievements from my mentorship (all <u>**CCF A conferences/journals**</u>, with several <u>**student first-authored works**</u>):  
 
 - **Ph.D. Student – Junsong Xie (Dec. 2023 – )**: IJCAI 2024 (Accepted), TKDE (Under Review), WWW 2026 (Under Review)  
 - **Ph.D. Student – Yuxin Liao (Aug. 2024 – )**: SIGIR 2025 (Accepted)  
