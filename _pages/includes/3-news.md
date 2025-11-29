@@ -1,5 +1,7 @@
 # 🔥 News
 
+_2025_10_31_: 🎉🎉 We have released a survey on <u>Generative Recommendation</u>.
+
 _2025_04_05_: 🎉🎉 Two papers on <u>Robust Recommendation</u> are accepted by SIGIR'25.
 
 _2025_01-22_: 🎉🎉 One paper on <u>Denoising-based Multimodal Recommendation</u> is released on ArXiv.
