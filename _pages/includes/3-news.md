@@ -16,10 +16,6 @@ _2024_04-17_: 🎉🎉 One paper on <u>Fairness-aware Recommendation</u> is acce
 
 _2023_12-7_: 🎉🎉 One paper on  <u>Hyperbolic Social Recommendation</u> is accepted by IEEE TKDE.
 
-_2023_11-27_: 🎉🎉 One paper on <u>Cold-start Recommendation</u> is accepted by IEEE TBD.
-
-_2023_7-26_: 🎉🎉 One paper on <u>Cold-start Recommendation</u> is accepted by MM'23.
-
 _2023_4-5_: 🎉🎉 One paper on <u>Self-supervised Graph Recommendation</u> is accepted by SIGIR'23.
 
 
