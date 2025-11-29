@@ -15,6 +15,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 ### In the year of 2025:
+- ``AAAI 2026`` Jilong Liu, Pengyang Shao, Wei Qin, Fei Liu, **Yonghui Yang**, Richang Hong. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. [\[Paper\]](https://arxiv.org/abs/2511.12208) [\[Code\]](https://github.com/liujilong0116/DoM)
 - ``SIGIR 2025`` **Yonghui Yang**, Le Wu, Yuxin Liao, Zhuangzhuang He, Pengyang shao, Richang Hong, Meng Wang. Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning. [\[Paper\]](https://arxiv.org/abs/2504.10432) [\[Code\]](https://github.com/yimutianyang/SIGIR2025-SGIL)
 - ``SIGIR 2025`` Yuxin Liao, **Yonghui Yang**, Min Hou, Le Wu, Hefei Xu, Hao Liu. Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective.
 
@@ -52,6 +53,7 @@ Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network 
 - ``SIGIR 2020`` Le Wu, **Yonghui Yang**, Lei Chen, Richang Hong, Meng Wang. Learning to Transfer Graph
 Embeddings for Inductive Graph based Recommendation.
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401145)
+
 
 
 
