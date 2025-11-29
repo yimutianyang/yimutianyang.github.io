@@ -10,6 +10,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``ArXiv 2025`` **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation. [\[Paper\]](https://arxiv.org/abs/2501.12175)
 - ``ArXiv 2025`` Yicheng He, Zhou Kaiyu, Haoyue Bai, Fengbin Zhu, **Yonghui Yang** *. Understanding Embedding Scaling in Collaborative Filtering. [\[Paper\]](https://arxiv.org/abs/2509.15709)
 - ``ArXiv 2025`` Yicheng He, Chengsong Huang, Zongxia Li, Jiaxin Huang, **Yonghui Yang**. VisPlay: Self-Evolving Vision-Language Models from Images. [\[Paper\]](https://arxiv.org/pdf/2511.15661)
+- ``ArXiv 2025`` Min Hou, Le Wu, Yuxin Liao, **Yonghui Yang**, Zhen Zhang, Changlong Zheng, Han Wu, Richang Hong. A Survey on Generative Recommendation: Data, Model, and Tasks. [\[Paper\]](https://arxiv.org/pdf/2510.27157)
 
 
 
@@ -51,6 +52,7 @@ Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network 
 - ``SIGIR 2020`` Le Wu, **Yonghui Yang**, Lei Chen, Richang Hong, Meng Wang. Learning to Transfer Graph
 Embeddings for Inductive Graph based Recommendation.
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401145)
+
 
 
 
