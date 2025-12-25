@@ -1,5 +1,7 @@
 # 🔥 News
 
+_2025_12_25_: 🎉🎉 One Paper on <u>Scaling Collaborative Filtering</u> is accepted by TMLR.
+
 _2025_10_31_: 🎉🎉 We have released a survey on <u>Generative Recommendation</u>.
 
 _2025_04_05_: 🎉🎉 Two papers on <u>Robust Recommendation</u> are accepted by SIGIR'25.
