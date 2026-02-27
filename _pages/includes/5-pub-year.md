@@ -5,7 +5,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 ### MLLM Safety and Alignment 
-- ``CVPR 2026`` Yicheng He, Chengsong Huang, Zongxia Li, Jiaxin Huang, **Yonghui Yang**. VisPlay: Self-Evolving Vision-Language Models from Images. [\[Paper\]](https://arxiv.org/pdf/2511.15661)
+- ``CVPR 2026`` Yicheng He, Chengsong Huang, Zongxia Li, Jiaxin Huang, **Yonghui Yang** *. VisPlay: Self-Evolving Vision-Language Models from Images. [\[Paper\]](https://arxiv.org/pdf/2511.15661)
 - ``ArXiv 2026`` **Yonghui Yang**, Wenjian Tao, Jilong Liu, Xingyu Zhu, Junfeng Fang, Weibiao Huang, Le Wu, Richang Hong, Tat-Sent Chua. Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control. [\[Paper\]](https://arxiv.org/abs/2602.07340)
 - ``ArXiv 2026`` **Yonghui Yang**, Junwei Li, Jilong Liu, Yicheng He, Fengbin Zhu, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Controllable Value Alignment in Large Language Models through Neuron-Level Editing. [\[Paper\]](https://arxiv.org/abs/2602.07356)
 - ``AAAI 2026`` Jilong Liu, Pengyang Shao, Wei Qin, Fei Liu, **Yonghui Yang**, Richang Hong. Debate over Mixed-knowledge: A Robust Multi-Agent Framework for Incomplete Knowledge Graph Question Answering. [\[Paper\]](https://arxiv.org/abs/2511.12208) [\[Code\]](https://github.com/liujilong0116/DoM)
@@ -39,6 +39,7 @@ Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network 
 - ``SIGIR 2020`` Le Wu, **Yonghui Yang**, Lei Chen, Richang Hong, Meng Wang. Learning to Transfer Graph
 Embeddings for Inductive Graph based Recommendation.
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401145)
+
 
 
 
