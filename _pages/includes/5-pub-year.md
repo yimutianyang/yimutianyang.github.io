@@ -15,7 +15,6 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 - ``ArXiv 2026`` Hao Zhan, Yihui Wang, **Yonghui Yang***, Danyang Yue, Yu Wang, Pengyang Shao, Fei Shen, Fei Liu, Le Wu. CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation. [\[Paper\]](https://arxiv.org/abs/2603.01536)
 - ``ArXiv 2025`` **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation. [\[Paper\]](https://arxiv.org/abs/2501.12175)
 - ``SIGIR 2025`` **Yonghui Yang**, Le Wu, Yuxin Liao, Zhuangzhuang He, Pengyang shao, Richang Hong, Meng Wang. Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning. [\[Paper\]](https://arxiv.org/abs/2504.10432) [\[Code\]](https://github.com/yimutianyang/SIGIR2025-SGIL)
-- ``SIGIR 2025`` Yuxin Liao, **Yonghui Yang**, Min Hou, Le Wu, Hefei Xu, Hao Liu. Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective.
 - ``KDD 2025`` Pengyang Shao†, **Yonghui Yang†**, Chen Gao, Lei Chen, Kun Zhang, Chenyi Zhuang, Le Wu, Meng Wang. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. [\[Paper\]](https://arxiv.org/pdf/2403.05559) [\[Code\]](https://github.com/ShaoPengyang/ISG-CD)
 - ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Richang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
 [\[Paper\]](https://arxiv.org/abs/2406.08214) [\[Code\]](https://github.com/yimutianyang/KDD24-GBSR)
@@ -24,7 +23,6 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
 
 ### Data-Centric Recommendation
-- ``ArXiv 2025`` Min Hou, Le Wu, Yuxin Liao, **Yonghui Yang**, Zhen Zhang, Changlong Zheng, Han Wu, Richang Hong. A Survey on Generative Recommendation: Data, Model, and Tasks. [\[Paper\]](https://arxiv.org/pdf/2510.27157)
 - ``ArXiv 2025`` Yu Wang, **Yonghui Yang**, Le Wu, Yi Zhang, Richang Hong. Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation. [\[Paper\]](https://arxiv.org/pdf/2511.18740)
 - ``TMLR 2025`` Yicheng He, Zhou Kaiyu, Haoyue Bai, Fengbin Zhu, **Yonghui Yang***. Understanding Embedding Scaling in Collaborative Filtering. [\[Paper\]](https://arxiv.org/abs/2509.15709)
 - ``TKDE 2025`` Zihan Wang, **Yonghui Yang***, **Le Wu** *, Richang Hong, Meng Wang. Making Non-overlapping Matters: An Unsupervised Alignment enhanced Cross-Domain Cold-Start Recommendation.[\[Paper\]](https://ieeexplore.ieee.org/document/10779184) [\[Code\]](https://github.com/wzh-study/MACDR)
@@ -40,6 +38,7 @@ Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network 
 - ``SIGIR 2020`` Le Wu, **Yonghui Yang**, Lei Chen, Richang Hong, Meng Wang. Learning to Transfer Graph
 Embeddings for Inductive Graph based Recommendation.
 [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401145)
+
 
 
 
