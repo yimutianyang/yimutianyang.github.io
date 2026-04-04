@@ -1,4 +1,5 @@
 # 🔥 News
+_2026_4_4_: 🎉🎉 One Paper on <u>Recommender Poisoning</u> is accepted by TKDE. One Paper on <u>MLLM for Recommendation</u> is accepted by SIGIR 2026.
 
 _2026_2_22_: 🎉🎉 One Paper on <u>Self-Evolving Vision-Language Models</u> is accepted by CVPR 2026.
 
