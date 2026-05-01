@@ -1,4 +1,7 @@
 # 🔥 News
+
+_2026_5_1_: 🎉🎉 One Paper on <u>Safety Alignment</u> is accepted by ICML'26. 
+
 _2026_4_4_: 🎉🎉 One Paper on <u>Recommender Poisoning</u> is accepted by TKDE. 
 
 _2026_4_3_: 🎉🎉 One Paper on <u>MLLM for Recommendation</u> is accepted by SIGIR 2026.
