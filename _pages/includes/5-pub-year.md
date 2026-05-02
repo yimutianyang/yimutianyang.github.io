@@ -6,13 +6,13 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 ### Preprint Papers 
 - ``ArXiv 2026`` Jilong Liu, **Yonghui Yang***, Pengyang Shao, Haokai Ma, Wei Qin, Richang Hong. wDPO: Winsorized Direct Preference Optimization for Robust LLM Alignment. [\[Paper\]](https://arxiv.org/abs/2603.07211) 
 - ``ArXiv 2026`` Hao Zhan, Yihui Wang, **Yonghui Yang***, Danyang Yue, Yu Wang, Pengyang Shao, Fei Shen, Fei Liu, Le Wu. CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation. [\[Paper\]](https://arxiv.org/abs/2603.01536)
-- ``ArXiv 2026`` **Yonghui Yang**, Wenjian Tao, Jilong Liu, Xingyu Zhu, Junfeng Fang, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control. [\[Paper\]](https://arxiv.org/abs/2602.07340)
 - ``ArXiv 2026`` **Yonghui Yang**, Junwei Li, Jilong Liu, Yicheng He, Fengbin Zhu, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Controllable Value Alignment in Large Language Models through Neuron-Level Editing. [\[Paper\]](https://arxiv.org/abs/2602.07356)
 - ``ArXiv 2025`` **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation. [\[Paper\]](https://arxiv.org/abs/2501.12175)
 - ``ArXiv 2025`` 
 
   
 ### LLM Safety and LLM4Rec
+- ``ICML 2026`` **Yonghui Yang**, Wenjian Tao, Jilong Liu, Xingyu Zhu, Junfeng Fang, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control. [\[Paper\]](https://arxiv.org/abs/2602.07340)
 - ``SIGIR 2026``Yu Wang, **Yonghui Yang***, Le Wu, Yi Zhang, Richang Hong. Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation. [\[Paper\]](https://arxiv.org/pdf/2511.18740) [\[Code\]](https://github.com/wangyu0627/HaNoRec)
 - ``CVPR 2026`` Yicheng He, Chengsong Huang, Zongxia Li, Jiaxin Huang, **Yonghui Yang***. VisPlay: Self-Evolving Vision-Language Models from Images. [\[Paper\]](https://arxiv.org/pdf/2511.15661) [\[Code\]](https://github.com/bruno686/VisPlay)
 - ``WWW 2026`` Pengyang Shao, Naixin Zhai, Lei Chen, **Yonghui Yang**, Fengbin Zhu, Xun Yang, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning.  [\[Paper\]](https://arxiv.org/abs/2601.09172) [\[Code\]](https://github.com/nxZhai/BalDRO)
