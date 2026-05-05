@@ -12,7 +12,6 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
   
 ### LLM Safety and LLM4Rec
 - ``ICML 2026`` **Yonghui Yang**, Wenjian Tao, Jilong Liu, Xingyu Zhu, Junfeng Fang, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Revisiting Robustness for LLM Safety Alignment via Selective Geometry Control. [\[Paper\]](https://arxiv.org/abs/2602.07340)
-- ``ACL 2026`` 
 - ``SIGIR 2026``Yu Wang, **Yonghui Yang***, Le Wu, Yi Zhang, Richang Hong. Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation. [\[Paper\]](https://arxiv.org/pdf/2511.18740) [\[Code\]](https://github.com/wangyu0627/HaNoRec)
 - ``CVPR 2026`` Yicheng He, Chengsong Huang, Zongxia Li, Jiaxin Huang, **Yonghui Yang***. VisPlay: Self-Evolving Vision-Language Models from Images. [\[Paper\]](https://arxiv.org/pdf/2511.15661) [\[Code\]](https://github.com/bruno686/VisPlay)
 - ``WWW 2026`` Pengyang Shao, Naixin Zhai, Lei Chen, **Yonghui Yang**, Fengbin Zhu, Xun Yang, Meng Wang. BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning.  [\[Paper\]](https://arxiv.org/abs/2601.09172) [\[Code\]](https://github.com/nxZhai/BalDRO)
