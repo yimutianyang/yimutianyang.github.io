@@ -18,7 +18,7 @@ My full paper list can also be found at [Google Scholar](https://scholar.google.
 
   
 ### Trustworthy Recommendation
-- ``TKDE`` Junsong Xie, **Yonghui Yang**, Shaopeng Yang, Le Wu. Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems.
+- ``TKDE`` Junsong Xie, **Yonghui Yang**, Shaopeng Yang, Le Wu. Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems. [\[Paper\]]((https://arxiv.org/abs/2604.22170)) 
 - ``SIGIR 2025`` **Yonghui Yang**, Le Wu, Yuxin Liao, Zhuangzhuang He, Pengyang shao, Richang Hong, Meng Wang. Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning. [\[Paper\]](https://arxiv.org/abs/2504.10432) [\[Code\]](https://github.com/yimutianyang/SIGIR2025-SGIL)
 - ``KDD 2025`` Pengyang Shao†, **Yonghui Yang†**, Chen Gao, Lei Chen, Kun Zhang, Chenyi Zhuang, Le Wu, Meng Wang. Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education. [\[Paper\]](https://arxiv.org/pdf/2403.05559) [\[Code\]](https://github.com/ShaoPengyang/ISG-CD)
 - ``KDD 2024`` **Yonghui Yang**, Le Wu, Zihan Wang, Zhuangzhuang He, Richang Hong, Meng Wang. Graph Bottlenecked Social Recommendation.
