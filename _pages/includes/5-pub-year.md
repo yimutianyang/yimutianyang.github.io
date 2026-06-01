@@ -4,7 +4,8 @@
 My full paper list can also be found at [Google Scholar](https://scholar.google.co.jp/citations?user=B8LCMuIAAAAJ&hl).
 
 ### Preprint Papers 
-- ``ArXiv 2026`` Jilong Liu, **Yonghui Yang***, Pengyang Shao, Haokai Ma, Wei Qin, Richang Hong. wDPO: Winsorized Direct Preference Optimization for Robust LLM Alignment. [\[Paper\]](https://arxiv.org/abs/2603.07211) 
+- ``ArXiv 2026`` Yihui Wang, **Yonghui Yang***, Jilong Liu, Fengbin Zhu, Le Wu, Tat-Seng Chua. Suppressing Forgery-Specific Shortcuts for Generalizable Deepfake Detection. [\[Paper\]](https://arxiv.org/submit/7662367/view)
+- ``ArXiv 2026`` Jilong Liu, **Yonghui Yang***, Pengyang Shao, Haokai Ma, Wei Qin, Richang Hong.CompassDPO: Dynamics-Controlled Direct Preference Optimization for Robust Safety Alignment. [\[Paper\]](https://arxiv.org/pdf/2603.07211v2) 
 - ``ArXiv 2026`` Hao Zhan, Yihui Wang, **Yonghui Yang***, Danyang Yue, Yu Wang, Pengyang Shao, Fei Shen, Fei Liu, Le Wu. CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation. [\[Paper\]](https://arxiv.org/abs/2603.01536)
 - ``ArXiv 2026`` **Yonghui Yang**, Junwei Li, Jilong Liu, Yicheng He, Fengbin Zhu, Weibiao Huang, Le Wu, Richang Hong, Tat-Seng Chua. Controllable Value Alignment in Large Language Models through Neuron-Level Editing. [\[Paper\]](https://arxiv.org/abs/2602.07356)
 - ``ArXiv 2025`` **Yonghui Yang**, Le Wu, Zhuangzhuang He, Zhengwei Wu, Richang Hong, Meng Wang. Less is More: Information Bottleneck Denoised Multimedia Recommendation. [\[Paper\]](https://arxiv.org/abs/2501.12175)
